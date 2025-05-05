@@ -22,23 +22,16 @@ bool AreThereDuplicates(int[] arrayOfInts)
     {
         if (countDictionary.ContainsKey(number))
         {
-            countDictionary[number]++;
+            return true;
         }
         else
         {
-            countDictionary.Add(number, 1);
-        }
-    }
-    
-    foreach (KeyValuePair<int, int> pair in countDictionary)
-    {
-        if (pair.Value > 1)
-        {
-            return true;
+            countDictionary[number] = 1;
         }
     }
     return false;
 }
+
 
 Console.WriteLine($"""
                    For the array: {string.Join(", ", arrayToCount)} 
