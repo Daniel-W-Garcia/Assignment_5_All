@@ -32,4 +32,4 @@ for (int i = inputString.Length - 1; i >= 0; i--)
         sum++;
     }
 }
-Console.WriteLine(sum);
+Console.WriteLine($"The count of characters in the last word of {inputString} is: " + sum);
