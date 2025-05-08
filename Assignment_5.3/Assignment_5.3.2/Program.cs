@@ -37,7 +37,6 @@ int ClimbStairs(int n) // this is a fibonacci sequence solution
         a = b;
         b = temp;
     }*/
-
     
     return currentWays;
 }
