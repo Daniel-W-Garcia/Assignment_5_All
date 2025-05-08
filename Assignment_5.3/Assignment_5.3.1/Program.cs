@@ -1,5 +1,4 @@
-﻿
-//Take an input array and a number of flowers that will be attempted to be planted
+﻿//Take an input array and a number of flowers that will be attempted to be planted
 // if you can plant the number of requested flowers in the given array return true, else false
 // so if the array is only [0] then 1 flower can be planted
 // if the array starts with 0,0 or ends with 0,0 then we can add a flower
