@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JU/zFxMSYFE=",
+  "success": true,
+  "projectFilePath": "F:\\C# Learning\\MSSA Course\\Assignments\\Assignment_5_All\\Assignment_5.4\\Assignment_5.4.2\\Assignment_5.4.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itodo\\.nuget\\packages\\syncfusion.licensing\\29.1.41\\syncfusion.licensing.29.1.41.nupkg.sha512",
+    "C:\\Users\\itodo\\.nuget\\packages\\syncfusion.maui.core\\29.1.41\\syncfusion.maui.core.29.1.41.nupkg.sha512",
+    "C:\\Users\\itodo\\.nuget\\packages\\syncfusion.maui.data\\29.1.41\\syncfusion.maui.data.29.1.41.nupkg.sha512",
+    "C:\\Users\\itodo\\.nuget\\packages\\syncfusion.maui.datagrid\\29.1.41\\syncfusion.maui.datagrid.29.1.41.nupkg.sha512",
+    "C:\\Users\\itodo\\.nuget\\packages\\syncfusion.maui.datasource\\29.1.41\\syncfusion.maui.datasource.29.1.41.nupkg.sha512",
+    "C:\\Users\\itodo\\.nuget\\packages\\syncfusion.maui.gridcommon\\29.1.41\\syncfusion.maui.gridcommon.29.1.41.nupkg.sha512",
+    "C:\\Users\\itodo\\.nuget\\packages\\syncfusion.maui.inputs\\29.1.41\\syncfusion.maui.inputs.29.1.41.nupkg.sha512",
+    "C:\\Users\\itodo\\.nuget\\packages\\syncfusion.maui.listview\\29.1.41\\syncfusion.maui.listview.29.1.41.nupkg.sha512",
+    "C:\\Users\\itodo\\.nuget\\packages\\syncfusion.maui.pulltorefresh\\29.1.41\\syncfusion.maui.pulltorefresh.29.1.41.nupkg.sha512"
+  ],
+  "logs": []
+}
